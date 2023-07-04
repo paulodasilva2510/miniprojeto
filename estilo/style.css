@@ -4,8 +4,7 @@
 
 @font-face {
   font-family: 'Android';
-  src: url(/..fontes/idroid.otf) format('opentype');
-  font-weight: normal;
+  src: url(../fontes/idroid.otf) format('opentype');
 }
 
 /*:root é um pseu de classe, podemos criar varios tipos de variaveis dentro da tag :root dentro colocamos sempre -- para referencia a variavel dentro da :root. Exemplo: --cor0:, --cor1:, cor2:...... */
